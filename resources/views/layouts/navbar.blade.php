@@ -18,22 +18,22 @@
     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#162455">
         <div class="container-xxl">
            
-            <div class="row mx-0 col-xl-12">
-                <div class="d-flex me-auto col-xl-3 my-2 my-xl-0 offset-xxl-0 offset-xl-1">
-                    <h6 class="me-4 text-light">  <i class="fa-solid fa-envelope me-xl-2"></i> <u>abc@email.com</u> </h6>
-                    <h6 class="text-light">  <i class="fa-sharp fa-solid fa-phone me-xl-2"></i> 021665876</h6>
+            <div class="row mx-0 col-xl-12 col-lg-12">
+                <div class="d-flex me-auto col-xl-3 col-lg-4 my-2 my-xl-0 offset-xxl-0 offset-xl-1">
+                    <h6 class="me-4 text-light">  <i class="fa-solid fa-envelope me-lg-2"></i> <u>abc@email.com</u> </h6>
+                    <h6 class="text-light">  <i class="fa-sharp fa-solid fa-phone me-lg-2"></i> 021665876</h6>
                 </div>
-                <div class="d-flex col-xl-4 offset-xxl-1 pe-xxl-0">
-                    <h6 class="ps-xxl-5 ps-xl-4 ms-xl-0 ms-xxl-0 text-light">  <i class="fa-solid fa-calendar-days ps-xxl-4 me-xxl-2"></i> Operational Hour: Mon-Sat 7.30 AM - 4 PM  </h6>
+                <div class="d-flex col-xl-4 col-lg-5 offset-xxl-1 pe-xxl-0">
+                    <h6 class="ps-xxl-5 ps-xl-4 ps-lg-5 ms-xl-0 ms-xxl-0 mb-lg-0 pt-lg-2 text-light">  <i class="fa-solid fa-calendar-days ps-xxl-4 me-xxl-2"></i> Operational Hour: Mon-Sat 7.30 AM - 4 PM  </h6>
                 </div>
             </div>
         </div>
     </nav>
 
-      <nav class="navbar navbar-expand-xl navbar-dark " style="background-color:#F9C94E">
+      <nav class="navbar navbar-expand-lg navbar-dark " style="background-color:#F9C94E">
         <div class="container-xxl">
-            <div class="row mx-0 col-xl-12">
-                <div class="d-flex col-xl-4 offset-xxl-0 offset-xl-1">
+            <div class="row mx-0 col-xl-12 col-lg-12">
+                <div class="d-flex col-xl-4 col-lg-4 offset-xxl-0 offset-xl-1 offset-lg-1">
                     <a class="navbar-brand" href="#">
                     <img src="/img/logo.png" alt="Bootstrap" width="80" height="80">
                     </a>
@@ -43,7 +43,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 </div>            
-                <div class="d-flex col-xl-5 collapse navbar-collapse Poppins ps-xxl-4 offset-xxl-2 ps-xl-5 offset-xl-0" id="navbarScroll">
+                <div class="d-flex col-xl-5 col-lg-5 collapse navbar-collapse Poppins ps-xxl-4 offset-xxl-2 ps-xl-5 offset-xl-0" id="navbarScroll">
                     <ul class="navbar-nav ms-xl-3 my-2 my-xxl-0 navbar-nav-scroll ps-xl-5" style="--bs-scroll-height: 100px;">
                         <li class="nav-item">
                             <a class="nav-link active fs-4" aria-current="page" href="#">Home</a>
@@ -73,7 +73,7 @@
     </main>
     <footer>
         <div class="container-fluid px-xxl-0 px-xl-0">
-            <div class="col-xxl-12 col-xl-12 py-xxl-5 py-xl-5 row mx-xxl-0 mx-xl-0 justify-content-center" style="background-color: #162455">
+            <div class="col-xxl-12 col-xl-12 col-lg-12 py-xxl-5 py-xl-5 row mx-xxl-0 mx-xl-0 justify-content-center" style="background-color: #162455">
                 <div class="col-xxl-2 py-xxl-5 col-xl-2">
                     <div class="container">
                         <img src="/img/logo.png" alt="Bootstrap" class="mx-auto d-none d-xxl-block" width="250rem" height="250rem">
